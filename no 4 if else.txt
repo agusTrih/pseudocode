@@ -1,4 +1,4 @@
-deklarasikan nilai = ""
+deklarasikan nilai = any value
 
 IF nilai > 80  tampilkan A
 ELSE IF nilai A < 80 dan nilai A > 70 tampilkan B
