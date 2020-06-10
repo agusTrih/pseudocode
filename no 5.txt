@@ -1,0 +1,6 @@
+deklarasian Nilai = 1
+nilai <= 10 
+apabila nilai  < 10 dan nilai itu ganjil tampilkan ganjil atau
+Nilai < 10 dan nilai itu genap tampilkan genap 
+ 
+ setelah itu nilai ditambah 1  

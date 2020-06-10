@@ -1,0 +1,3 @@
+Deklarasikan sisiPeresegi = 15
+
+Tampilkan hasil dari sisiPersegi * sisiPersegi

@@ -1,0 +1,4 @@
+Deklarasikan Happy = 1 dan
+apabila Happy <= 100
+tampilkan "saya senang" lalu
+tambahkan Happy dengan 1
