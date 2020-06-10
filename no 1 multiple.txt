@@ -1,5 +1,5 @@
-Deklarasikan A = 10
-Deklarasikan B = 12
-Deklarasikan c = 11
+Deklarasikan A = any value
+Deklarasikan B = any value
+Deklarasikan c = any value
 
 Tampilkan hasil dari  A + b + c
